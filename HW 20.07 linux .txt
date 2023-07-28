@@ -1,0 +1,7 @@
+  0 touch 1.txt
+   1 date >> 1.txt
+   2 mkdir -p /tmp/hw3/newfile/eugene && echo "Homework3" >> 1.txt
+   3  df / >> 1.txt
+   4 cat 1.txt
+   5 history | tail -5 >> 1.txt
+   6 cat /proc/cpuinfo |grep vendor >> 1.txt
